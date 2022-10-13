@@ -10,3 +10,5 @@ def countingSort(A):
         B[C[A[j]]-1]=A[j]
         C[A[j]]-=1
     return B
+    
+    
